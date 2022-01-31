@@ -1,7 +1,10 @@
 import React from "react";
 
 function NavBar() {
-  // update the JSX being returned!
+  <nav>
+    <a href='home'></a>
+    <a href='about'></a>
+  </nav>
   return <nav>NavBar</nav>;
 }
 
